@@ -1,6 +1,6 @@
-# Java Repository
+# Java Learning Repository
 
-Welcome to the **Java Repository**! This repository contains comprehensive code examples and notes for learning and mastering Java.
+Welcome to the **Java Learning Repository**! This repository contains comprehensive code examples and notes for learning and mastering Java.
 
 ## Contents
 1. **Basics of Java**  
