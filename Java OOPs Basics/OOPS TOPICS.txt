@@ -1,0 +1,18 @@
+Java OOPS Basics -
+
+classes and objects
+method/Functions
+Public private protected
+Constructor(defualt and parameter)
+Encapsulation(Getter and Setter)
+ --Bank Example
+Inhertence
+ -- Parent Child Concept
+Polymorphism(override)
+ -- Payment mechanism(cash, card)
+Abstraction
+ --abstract
+ --interface(cannot be initialized)
+
+
+
