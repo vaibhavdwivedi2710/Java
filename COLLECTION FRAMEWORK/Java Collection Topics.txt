@@ -1,0 +1,29 @@
+- Custom classes
+- Collection Interface
+ a.List Interface
+  1. ArrayList class
+  2. LinkedList class
+  3. Stack class
+  4. vector class - thread safe
+ b. Set
+  1.HashSet
+  2.TreeSet
+ c. Queue
+  1. ArrayQueue
+  2. LinkedList
+  3. PriorityQueue
+- Map
+  1. HashMap
+  2. TreeMap
+- Iterator
+  1. ListIterator
+- Custom comparator
+- Commom Algorithms
+  1.Collections.sort(list)
+  2.Collections.max(list)
+  3.Collections.min(list)
+  4.Collections.reverse(list);
+  5.Arrays.sort(array)
+  6.Collections.frequency(List, element)
+  7.Collections.binarySearch(list,key);
+  8.Math.pow(base, exponent);
