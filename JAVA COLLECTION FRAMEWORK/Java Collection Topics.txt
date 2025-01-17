@@ -6,8 +6,8 @@
   3. Stack class
   4. vector class - thread safe
  b. Set
-  1.HashSet
-  2.TreeSet
+  1.HashSet O(1)
+  2.TreeSet (log N)
  c. Queue
   1. ArrayQueue
   2. LinkedList
