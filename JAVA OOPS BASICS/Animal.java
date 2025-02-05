@@ -30,3 +30,6 @@ class Basics {
         dog.sleep();          // Call the overridden sleep() method
     }
 }
+
+// we can have multiple interfaces
+// we can not use super keyword in interface because it is not a abstract class

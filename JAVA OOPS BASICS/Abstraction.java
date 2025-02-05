@@ -1,8 +1,10 @@
 abstract class BankAccount {
     double balance;
+    //abstract method
     abstract void addMoney(double amount);
     abstract void canUserWithdrawMoney(double amount);
-
+    
+    //non abstract method
     void updateBalance( double balance){
        this.balance=balance;
     }
@@ -47,6 +49,8 @@ class Basics {
 public static void main(String[] args) {
     
 }
+
+//we can not create object of abstract class
     
 }
 

@@ -8,8 +8,8 @@
  b. Set
   1.HashSet O(1)
   2.TreeSet (log N)
- c. Queue
-  1. ArrayQueue
+ c. Queue(FIFO)
+  1. ArrayDeque
   2. LinkedList
   3. PriorityQueue
 - Map
